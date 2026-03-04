@@ -59,7 +59,7 @@
 
 
 //орлорлорол
-
+//aslkfjlkasjlflkqwejljflwqejlfqweqjfkljlqw
 
 
 
@@ -70,7 +70,7 @@
 
 //2
 let text = prompt("Введите месяц"); 
-if (text === "Январь" || text==="Декабрь" || text==="Февраль") {
+if (text === "Январь" || text==="Декабрь" || text==="Ф евраль") {
     alert("Зима");
 }else if (text === "Юнь" || text==="Юль" ||text=== "Август") {
     alert("Лето");
