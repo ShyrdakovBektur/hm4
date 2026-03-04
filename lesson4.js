@@ -55,4 +55,28 @@
 
 
 //3
+//hggfhgfhfhgh
 
+
+
+
+
+
+
+
+
+
+
+
+
+//2
+let text = prompt("Введите месяц"); 
+if (text === "Январь" || text==="Декабрь" || text==="Февраль") {
+    alert("Зима");
+}else if (text === "Юнь" || text==="Юль" ||text=== "Август") {
+    alert("Лето");
+}else if (text === "Сентябрь" || text==="Октябрь" ||text=== "Ноябрь") {
+    alert("Осень");
+}else if (text === "Март" || text==="Апрель" || text==="Май") {
+    alert("Весна");
+}
